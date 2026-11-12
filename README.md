@@ -90,8 +90,10 @@ The application produces one `.ddes` file, containing:
 
 **Main file:** Run metadata and the sample, assay, target, count,
   concentration, and threshold information for each reaction.
+  
 **Assay file:** Assay definitions linking each assay to its target and
   fluorescence-channel combinations.
+  
 **Intensity file(s):** One file per well containing the partition identifier,
   fluorescence channel, and endpoint fluorescence intensity for every
   partition.
